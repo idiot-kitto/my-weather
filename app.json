@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Building my-weather-app Using React Native with Nomadcoders.",
+    "githubUrl": "https://github.com/idiot-kitto/my-weather"
   }
 }
